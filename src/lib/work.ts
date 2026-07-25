@@ -38,7 +38,7 @@ export const caseStudies: CaseStudy[] = [
     tag: "Demo Project",
     title: "Jańa",
     cover: "/project-jana.png",
-    liveUrl: "https://jana-parisian-elegance.lovable.app/",
+    liveUrl: "https://jana-parisian-elegance.vercel.app/",
     summary:
       "A candlelit corner of Paris — buttery pastries by day, velvet-dark jazz by night.",
     description:
@@ -55,7 +55,7 @@ export const caseStudies: CaseStudy[] = [
     tag: "Demo Project",
     title: "Medi Estate",
     cover: "/project-medi.png",
-    liveUrl: "https://medi-estate.lovable.app",
+    liveUrl: "https://medi-estate.vercel.app/",
     summary:
       "Where the Mediterranean meets the Gulf — a real-estate concept for beachfront villas across the UAE.",
     description:
