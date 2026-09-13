@@ -1,2 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /admin
+Disallow: /_next
+Disallow: /private
+
+Sitemap: https://musewebstudio.com/sitemap.xml
