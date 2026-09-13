@@ -1,10 +1,32 @@
-# Muse
+# Muse Web Studio
 
-A remote creative studio crafting editorial websites, brand identity, and custom digital experiences with warmth and intention.
+Muse Web Studio is a Hargeisa, Somaliland-based creative web studio offering custom website design, website redesigns, website fixes, and branding for small businesses, startups, and personal brands worldwide.
+
+## Services
+
+- Custom website design and development
+- Small business website design
+- Website redesigns and refreshes
+- Website fixes and improvements
+- Logo and brand design
+- Custom digital experiences
+
+## Location and service area
+
+Muse Web Studio is based in Hargeisa, Somaliland and works remotely with clients worldwide.
 
 ## Links
 
-- [Services](/#services): Website design & development, website refreshes, and logo & brand design.
-- [Work](/#work): Featured client and demo projects, each with its own case study under /work/.
-- [About](/#about): One-woman studio, working globally, 100% remote.
-- [Contact](/#contact): Instagram, Facebook, and email at hello@muse.studio.
+- Services: /#services
+- Work: /#work
+- About: /#about
+- FAQ: /#faq
+- Contact: /#contact
+- Book a discovery call: https://calendar.app.google/M47RAvAPKgH2mDRE7
+
+## Contact
+
+Website: https://musewebstudio.com
+Email: hello@musewebstudio.com
+Instagram: https://www.instagram.com/musewebstudio/
+Facebook: https://www.facebook.com/profile.php?id=61592306638218
