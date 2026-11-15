@@ -12,7 +12,7 @@ import type { ReactNode } from "react";
 import appCss from "../styles.css?url";
 
 const SITE_URL = "https://musewebstudio.com";
-const BOOKING_URL = "https://calendar.app.google/M47RAvAPKgH2mDRE7";
+const BOOKING_URL = "https://calendly.com/hello-musewebstudio/15-mins-with-naima";
 const DESCRIPTION =
   "Muse Web Studio is a Hargeisa, Somaliland-based creative web studio offering custom website design, website redesigns, website fixes and branding for small businesses, startups and personal brands worldwide.";
 const KEYWORDS =
