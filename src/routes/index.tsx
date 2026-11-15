@@ -13,6 +13,7 @@ import { useState } from "react";
 
 import { caseStudies } from "@/lib/work";
 
+// All homepage booking CTAs use the Calendly discovery call.
 const BOOKING_URL = "https://calendly.com/hello-musewebstudio/15-mins-with-naima";
 
 const services = [
