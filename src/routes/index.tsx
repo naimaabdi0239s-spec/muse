@@ -13,7 +13,7 @@ import { useState } from "react";
 
 import { caseStudies } from "@/lib/work";
 
-const BOOKING_URL = "https://calendar.app.google/M47RAvAPKgH2mDRE7";
+const BOOKING_URL = "https://calendly.com/hello-musewebstudio/15-mins-with-naima";
 
 const services = [
   {
